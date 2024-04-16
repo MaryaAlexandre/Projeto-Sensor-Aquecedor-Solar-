@@ -17,13 +17,14 @@ O sensor de temperatura foi criado através da plataforma de projetos do tinkerc
 - Módulo de relé. - Apenas para conectar fisicamente ao projeto, o que não foi realizado este caso foi utilizado apenas para simulação;
 - Aquecedor de água. - Aquecedor Solar de baixo Custo;
 - Módulo de tempo real (opcional).
-- 
+
 ## Passos para o projeto:
 1. Montagem do Hardware:
 Conectou-se o sensor de temperatura ao Arduino da seguinte forma:
 - Foi Conectado o pino de sinal do sensor (geralmente o pino central) a uma porta analógica do Arduino, A0.
 - Conectou-se o pino VCC do sensor ao pino 5V do Arduino - responsável pela alimentação (potência);
 - Conectou-se o pino GND do sensor ao pino GND do Arduino.
+  
 2. Programação do Microcontrolador:
 - Fez-se necessário um código que lê-se os dados do sensor de temperatura em intervalos regulares;
 - Foi definido uma temperatura de referência para acionar o aquecedor de água;
