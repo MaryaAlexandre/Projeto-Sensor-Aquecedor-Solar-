@@ -3,7 +3,7 @@ Desenvolvimento de um sensor de Aquecedor Solar com o intuito de ao aquecedor at
 
 ## Trabalho de conclusão em Energia Solar Térmica voltada para a área da pecuária leiteira, Ordenhadeira Solar de baixo custo, construída em materiais recicláveis com parceria de SESI Escola e Fazenda Caju ( fazenda queijeira localizada em Ceara-Mirim), projeto ganhou visibilidade na TV Tropical e Cabugi.
 
-#Resumo do Projeto
+# Resumo do Projeto
 RESUMO
 O presente trabalho apresenta a caracterização de uma ordenhadeira solar térmica com a finalidade de limpeza Clean in Place (CIP) - limpeza local, onde ocorre a limpeza por circulação através do uso do calor do sol diretamente para aquecer outros meios, aproveitando tubos a vácuo a fim de realizar a captação e transferir o calor para um meio líquido, a água.  Utilizando esta para a limpeza dos equipamentos da ordenhadeira que entra em contato com o leite das vacas.  Com a finalidade de que a limpeza e desinfecção não aumente a carga microbiana responsável pela baixa qualidade do leite, após a ordenha. Os benefícios da Ordenhadeira Solar são a produção de energia mais limpa, que a gerada por grande parte do sistema de energia do país que em geral trabalha com biocombustíveis, petróleo, carvão mineral, gás natural e energia nuclear, e também a utilização de materiais recicláveis como latinha que sendo reutilizados na construção da Ordenhadeira reduzem o impacto ambiental e geram mais consciência ecológica na reciclagem de materiais.
 Palavras-Chave: Ordenhadeira; Produção de leite; Limpeza. Energia solar; Energias renováveis.
